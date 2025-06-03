@@ -1,4 +1,4 @@
-<h3 align="center">🎓 Timqtzy | College Student & Aspiring Developer<br>👋 Hi there! I'm Timqtzy, a college student passionate about web development with a growing interest in Unity and game dev. I'm still learning, but I'm excited to build, explore, and grow in the world of programming.</h3>
+<h3 align="center">🎓 Tim | College Student & Aspiring Developer<br>👋 Hi there! I'm Timqtzy, a college student passionate about web development with a growing interest in Unity and game dev. I'm still learning, but I'm excited to build, explore, and grow in the world of programming.</h3>
 
 ###
 
