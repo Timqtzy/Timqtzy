@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Timqtzy/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
