@@ -1,5 +1,8 @@
 <h3 align="center">🎓 Tim | College Student & Aspiring Developer<br>👋 Hi there! I'm Tim, a college student passionate about web development with a growing interest in Unity and game dev. I'm still learning, but I'm excited to build, explore, and grow in the world of programming.</h3>
-<p>Portfolio: <a>https://timdev.vercel.app</a> </p>
+###
+
+<p>Portfolio: <a href="https://timdev.vercel.app">https://timdev.vercel.app</a> </p>
+
 ###
 
 <div align="center">
